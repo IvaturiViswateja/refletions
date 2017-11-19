@@ -1,0 +1,17 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: .git file is created. We need to dothis to help git track our history and manage files.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: we can add individual files to Staging area and commit them rather than all in the working directory. It offers the freedom of choosing individual files rather than the whole repository.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: we can add requiered number of files and then commit instead of whole files into our repository.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: When you want to experiment with a new feature and to safe side dont want your original projrect to get disturbed if anything goes wrong.Branches help to organise the flow of project by experimenting with different things and not effecting our project in anyway.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: They helpd us to understand the flow of project with the recent commit being listed and different branches being creatd.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: The whole lot of files comes under one roof.
